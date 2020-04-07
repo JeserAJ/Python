@@ -1,3 +1,6 @@
+'''
+This tic tac toe game uses a random function for computer's turn. So it only has a low chance of winning the game.
+'''
 from os import system
 from random import randint
 from time import sleep
